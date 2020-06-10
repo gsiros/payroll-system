@@ -1,0 +1,118 @@
+EMPLOYEE_LIST
+{
+	EMPLOYEE
+	{
+		CODE 1001
+		SURNAME "ΤΟΥΜΑΖΑΤΟΣ"
+		FIRSTNAME "ΑΝΑΣΤΑΣΙΟΣ"
+		SALARY 3000.0
+		FUND_COEF 0.6
+		TRNS
+		{
+			TRN
+			{
+				ELEMENT_TYPE TA
+				CODE 1
+				VALUE 20.0
+			}
+
+			TRN
+			{
+				ELEMENT_TYPE EA
+				CODE 1
+				VALUE 5.0
+			}
+
+			TRN
+			{
+				ELEMENT_TYPE PA
+				CODE 1
+				VALUE 500.0
+			}
+
+			TRN
+			{
+				ELEMENT_TYPE TA
+				CODE 1
+				VALUE 20.0
+			}
+
+			TRN
+			{
+				ELEMENT_TYPE EA
+				CODE 1
+				VALUE 5.0
+			}
+
+			TRN
+			{
+				ELEMENT_TYPE PA
+				CODE 3
+				VALUE 600.0
+			}
+
+		}
+	}
+	EMPLOYEE
+	{
+		CODE 1002
+		SURNAME "ΣΥΡΟΣ"
+		FIRSTNAME "ΓΕΩΡΓΙΟΣ"
+		SALARY 680.0
+		FUND_COEF 0.35
+		TRNS
+		{
+			TRN
+			{
+				ELEMENT_TYPE PA
+				CODE 3
+				VALUE 600.0
+			}
+
+		}
+	}
+	EMPLOYEE
+	{
+		CODE 1003
+		SURNAME "ΧΡΙΣΤΟΔΟΥΛΟΥ"
+		FIRSTNAME "ΝΙΚΟΣ"
+		SALARY 500.0
+		FUND_COEF 0.32
+		TRNS
+		{
+		}
+	}
+	EMPLOYEE
+	{
+		CODE 1004
+		SURNAME "ΧΡΙΣΤΟΔΟΥΛΟΥ"
+		FIRSTNAME "ΧΡΙΣΤΟΣ"
+		SALARY 470.0
+		FUND_COEF 0.56
+		TRNS
+		{
+		}
+	}
+	EMPLOYEE
+	{
+		CODE 1005
+		SURNAME "ΣΥΡΟΣ"
+		FIRSTNAME "ΙΩΑΝΝΗΣ"
+		SALARY 802.0
+		FUND_COEF 0.45
+		TRNS
+		{
+		}
+	}
+	EMPLOYEE
+	{
+		CODE 1006
+		SURNAME "ΠΑΤΟΥΛΑΣ"
+		FIRSTNAME "ΚΩΝΣΤΑΝΤΙΝΟΣ"
+		SALARY 924.0
+		FUND_COEF 0.23
+		TRNS
+		{
+		}
+	}
+}

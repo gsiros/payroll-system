@@ -1,0 +1,79 @@
+MISTHOLOGIKA_STOIXEIA_COLLECTION
+{
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE TA
+		CODE 1
+		DESCR "ΗΜΕΡΕΣ ΕΡΓΑΣΙΑΣ"
+		PERC 1.0
+	}
+
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE TA
+		CODE 2
+		DESCR "ΗΜΕΡΕΣ ΑΔΕΙΑΣ"
+		PERC 0.02
+	}
+
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE TA
+		CODE 3
+		DESCR "ΗΜΕΡΕΣ ΑΣΘΕΝΕΙΑΣ"
+		PERC 0.5
+	}
+
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE EA
+		CODE 1
+		DESCR "ΥΠΕΡΩΡΙΕΣ"
+		PERC 1.7
+	}
+
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE EA
+		CODE 2
+		DESCR "ΝΥΧΤΕΡΙΝΗ ΕΡΓΑΣΙΑ"
+		PERC 1.4
+	}
+
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE PA
+		CODE 1
+		DESCR "BONUS"
+	}
+
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE PA
+		CODE 2
+		DESCR "ΠΡΟΜΗΘΕΙΑ ΠΩΛΗΣΕΩΝ"
+	}
+
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE PA
+		CODE 3
+		DESCR "ΕΡΓΟΛΑΒΙΑ"
+	}
+
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE TA
+		CODE 4
+		DESCR "ΥΠΗΡΕΣΙΑ"
+		PERC 0.4
+	}
+
+	MISTHOLOGIKO_STOIXEIO
+	{
+		TYPE PA
+		CODE 4
+		DESCR "ΥΠΕΡΥΠΗΡΕΣΙΑ"
+	}
+
+}
